@@ -1,0 +1,20 @@
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\bin\Debug\net8.0-windows\HM3 PT2.exe
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\bin\Debug\net8.0-windows\HM3 PT2.deps.json
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\bin\Debug\net8.0-windows\HM3 PT2.runtimeconfig.json
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\bin\Debug\net8.0-windows\HM3 PT2.dll
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\bin\Debug\net8.0-windows\HM3 PT2.pdb
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2_MarkupCompile.cache
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2_MarkupCompile.lref
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.g.resources
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.AssemblyInfoInputs.cache
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.AssemblyInfo.cs
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.csproj.CoreCompileInputs.cache
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.dll
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\refint\HM3 PT2.dll
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.pdb
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\HM3 PT2.genruntimeconfig.cache
+C:\Users\BigTasty\Desktop\VisStudio\HM3 PT2\HM3 PT2\obj\Debug\net8.0-windows\ref\HM3 PT2.dll
