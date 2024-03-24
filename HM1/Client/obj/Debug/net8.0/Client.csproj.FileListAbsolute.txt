@@ -1,0 +1,14 @@
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\bin\Debug\net8.0\Client.exe
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\bin\Debug\net8.0\Client.dll
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.dll
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\BigTasty\Desktop\JetBrains\Network\HM1\Client\obj\Debug\net8.0\ref\Client.dll
